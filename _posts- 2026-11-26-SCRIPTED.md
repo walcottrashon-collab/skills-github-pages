@@ -1,5 +1,5 @@
 ---
-title: "SCRIPTED"
+title: "post"
 date: 2026-11-26
 ---
-a blog post 
+ 
